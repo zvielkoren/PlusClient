@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "plussmp",
+  "version": "1.0.0",
+  "name": "PlusSMP",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/plussmp/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.zvicraft.plusilclient.client.PlusilclientDataGenerator"
+    ],
+    "client": [
+      "com.zvicraft.plusilclient.client.PlusilclientClient"
+    ],
+    "main": [
+      "com.zvicraft.plusilclient.Plusilclient"
+    ]
+  },
+  "mixins": [
+    "plusilclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
