@@ -33,7 +33,6 @@ public class Overlay {
 
             // Draw first slot
             drawContext.drawTexture(
-                    RenderLayer::getGuiTextured,
                     EMPTY_SLOT_TEXTURE,
                     baseX, baseY,
                     0.0f, 0.0f,
@@ -43,7 +42,6 @@ public class Overlay {
 
             // Draw second slot
             drawContext.drawTexture(
-                    RenderLayer::getGuiTextured,
                     EMPTY_SLOT_TEXTURE,
                     baseX + SLOT_SIZE + SLOT_SPACING, baseY,
                     0.0f, 0.0f,
