@@ -1,0 +1,37 @@
+{
+  "death.attack.player.invis": "%1$s was killed by %2$s using Invis Power",
+  "item.plus_smp.kochavlet.used": "You received %s!",
+  
+  // Item Translations
+  "item.plussmp.speed_power": "Speed Power",
+  "item.plussmp.dogs_power": "Dogs Power",
+  "item.plussmp.blindness_power": "Blindness Power",
+  "item.plussmp.cage_power": "Cage Power",
+  "item.plussmp.emerald_power": "Emerald Power",
+  "item.plussmp.immunity_power": "Immunity Power",
+  "item.plussmp.creeper_power": "Creeper Power",
+  "item.plussmp.poison_power": "Poison Power",
+  "item.plussmp.totem_power": "Totem Power",
+  "item.plussmp.vex_power": "Vex Power",
+  "item.plussmp.dolphin_power": "Dolphin Power",
+  "item.plussmp.grappling_power": "Grappling Power",
+  "item.plussmp.pearl_power": "Ender Pearl Power",
+  "item.plussmp.lifesteal_power": "Lifesteal Power",
+  "item.plussmp.heart_power": "Heart Power",
+  "item.plussmp.shield_piercing_power": "Shield Piercing Power",
+  "item.plussmp.shrink_power": "Shrink Power",
+  "item.plussmp.cobweb_power": "Cobweb Power",
+  "item.plussmp.mace_power": "Mace Power",
+  "item.plussmp.invisibility_power": "Invisibility Power",
+  "item.plussmp.strength_power": "Strength Power",
+  "item.plussmp.slowness_power": "Slowness Power",
+  "item.plussmp.weakness_power": "Weakness Power",
+  "item.plussmp.wither_power": "Wither Power",
+  "item.plussmp.kochavlet_power": "Kochavlet Power",
+  "item.plussmp.general_power": "General Power",
+  "item.plussmp.kochavlet": "Kochavlet",
+  "item.plussmp.general": "General Item",
+  
+  // Item Group
+  "itemGroup.plussmp.main": "PlusSMP Items"
+}
