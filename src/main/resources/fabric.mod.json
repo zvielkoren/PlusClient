@@ -8,7 +8,7 @@
   "contact": {},
   "license": "All-Rights-Reserved",
   "icon": "assets/plussmp/icon.png",
-  "environment": "client",
+  "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
       "com.zvicraft.plusilclient.client.PlusilclientDataGenerator"
@@ -20,9 +20,10 @@
       "com.zvicraft.plusilclient.Plusilclient"
     ]
   },
-  "mixins": [
-    "plusilclient.mixins.json"
-  ],
+    "mixins": [
+      "plusilclient.mixins.json"
+    ],
+
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",

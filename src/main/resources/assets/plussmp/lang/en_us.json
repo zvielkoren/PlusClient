@@ -1,6 +1,7 @@
 {
   "death.attack.player.invis": "%1$s was killed by %2$s using Invis Power",
   "item.plus_smp.kochavlet.used": "You received %s!",
+    "itemgroup.plussmp.plus_smp_group": "Plus SMP",
   
   // Item Translations
   "item.plussmp.speed_power": "Speed Power",

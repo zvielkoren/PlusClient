@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.zvicraft.plusilclient.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "plussmp.refmap.json",
+  "mixins": [
+    "SuspiciousStewIngredientMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
